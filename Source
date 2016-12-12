@@ -1359,7 +1359,7 @@ strokeWeight(1);
         fill(26, 45, 48,200);
         rect(-width*0.35,-height*0.09,width*0.7,height/5,20);
         fill(0, 221, 255);
-        text("The Hunt", 0, 0);
+        text("Izzabella", 0, 0);
         popMatrix();
 
 
@@ -1572,7 +1572,7 @@ strokeWeight(1);
         pushMatrix();
         translate(200, 140);
         fill(255,255,255);
-        text("You are a young tiger learning to Hunt ! \n You make the tiger run, stalk or jump ", 0, -20);
+        text("Izzabella is a tiger cub learning to Hunt ! \n Make her run, stalk or jump ", 0, -20);
          fill(255,255,255);
         text("There are rabbits out in the field near\n by where you can go hone your skills", 0 , 30);
          fill(255,255,255);
