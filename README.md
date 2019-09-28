@@ -1,7 +1,7 @@
 # Izzabella
 
 <br /><br />
-<img src="Izzabella.gif" width='200'>
+<img src="Izzabella.gif" width='150'>
 <br /><br />
 
 Izzabella is a first person style chasing game where the title character must navigate through an arena and chase down prey. The game is made using [processing.js](http://processingjs.org/).
